@@ -1,4 +1,4 @@
 # Hello-world
 start to use GitHub
 
-I'm a master student who are digging into information security.
+I'm a master student who is digging into information security.
